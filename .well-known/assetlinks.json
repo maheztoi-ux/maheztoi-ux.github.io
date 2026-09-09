@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sanewegames.neosudoku",
+      "sha256_cert_fingerprints": [
+        "E2:D4:B1:2D:C5:33:5A:D3:28:52:3F:2A:64:82:38:08:0E:77:32:83:A9:CF:90:A7:5C:F2:DB:A6:A1:2B:F5:58"
+      ]
+    }
+  }
+]
