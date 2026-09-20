@@ -1,13 +1,13 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.sanewegames.neosudoku",
       "sha256_cert_fingerprints": [
-        "E2:D4:B1:2D:C5:33:5A:D3:28:52:3F:2A:64:82:38:08:0E:77:32:83:A9:CF:90:A7:5C:F2:DB:A6:A1:2B:F5:58"
+        "E2:D4:B1:2D:C5:33:5A:D3:28:52:3F:2A:64:82:38:08:0E:77:32:83:A9:CF:90:A7:5C:F2:DB:A6:A1:2B:F5:58",
+        "01:F8:4F:01:67:BD:2B:8A:29:18:24:64:5D:04:6F:40:8F:C3:15:51:A3:AA:08:32:14:EE:12:79:F7:41:49:59",
+        "CA:53:4A:BA:87:C9:20:FF:D2:4E:4B:76:74:9B:95:E5:39:7D:03:BF:8C:EA:D5:4C:2E:89:CE:66:02:D9:F6:00"
       ]
     }
   }
